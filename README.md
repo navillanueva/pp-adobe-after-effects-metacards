@@ -10,6 +10,6 @@ First design: had to learn how to use this tool, design is pretty sketchy and no
 
 ![](https://github.com/navillanueva/pp-adobe-after-effects-metacards/bearPassV1.gif)
 
-Looks a lot cleaner in black, camera work is a bit sloppy and the "3D" effect of the things in the card doesnt look to clean...
+Second design: Looks a lot cleaner in black, camera work is a bit sloppy and the "3D" effect of the things in the card doesnt look to clean...
 
 ![](https://github.com/navillanueva/pp-adobe-after-effects-metacards/bearPassV1.gif)
