@@ -12,4 +12,9 @@ First design: had to learn how to use this tool, design is pretty sketchy and no
 
 Second design: Looks a lot cleaner in black, camera work is a bit sloppy and the "3D" effect of the things in the card doesnt look to clean...
 
-![](https://github.com/navillanueva/pp-adobe-after-effects-metacards/bearPassV1.gif)
+![](https://github.com/navillanueva/pp-adobe-after-effects-metacards/bearPassV2.gif)
+
+Third and final design: Stayed with some of the core components of the second version but cleaned up a bit the design and made the animation a bit more smooth
+
+
+![](https://github.com/navillanueva/pp-adobe-after-effects-metacards/BearPassV3.gif)
